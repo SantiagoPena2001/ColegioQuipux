@@ -15,6 +15,10 @@ import java.util.ArrayList;
  */
 public class DescripcionPlanDaoImpl implements DescripcionPlanDao {
 
+    //holsd sdfklsdhfsldkjfsdlkf me gusta eimy
+    
+    
+    
     private ArrayList<DescripcionPlanEntity> listaDescripciones = new ArrayList<DescripcionPlanEntity>();
     int x = 0;
     @Override
